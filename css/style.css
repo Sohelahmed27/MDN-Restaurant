@@ -17,9 +17,3 @@ body{
 #about{
   color: #fff;
 }
-#book{
-  background-image: url('../img/rastaurant.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  height:300px; 
-}
