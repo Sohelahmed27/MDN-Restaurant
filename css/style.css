@@ -10,10 +10,16 @@ body{
 
 /* Height for devices larger than 992px */
 @media (min-width: 992px) {
-  #intro-example {
+  #intro-example, #book {
     height: 400px;
   }
 }
 #about{
   color: #fff;
+}
+#book{
+  background-image: url('../img/rastaurant.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:300px; 
 }
