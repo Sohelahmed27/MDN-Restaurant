@@ -1,0 +1,19 @@
+body{
+  background-color:#000;
+}
+.divider{
+  background-color: #fff;
+}
+#intro-example {
+  height: 400px;
+}
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+  #intro-example {
+    height: 400px;
+  }
+}
+#about{
+  color: #fff;
+}
